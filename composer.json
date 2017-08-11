@@ -1,14 +1,19 @@
 {
-    "name": "smile/elasticsuite",
+    "name": "berlingskemedia/bm.m2.module.elasticsuite",
     "type": "magento2-component",
     "license": "OSL-3.0",
-    "authors": [{
+    "authors": [
+        {
             "name": "Aurélien FOUCRET",
             "email": "aurelien.foucret@smile.fr"
+        },
+        {
+            "name": "Mateusz Lerczak",
+            "email": "xmatl@berlingskemedia.dk"
         }
     ],
     "description": "Smile ElasticSuite - Magento2 Merchandising built on ElasticSearch",
-    "homepage": "https://github.com/Smile-SA/elasticsuite",
+    "homepage": "https://github.com/BerlingskeMedia/bm.m2.module.elasticsuite",
     "keywords": [
         "magento",
         "magento2",
